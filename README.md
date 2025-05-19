@@ -2,11 +2,11 @@ A curated collection of small projects and daily coding challenges to stay sharp
 
 This repository serves as a personal coding playground—a place to practice, experiment, and grow. From quick algorithm challenges to mini apps and utilities, each project is designed to reinforce skills, test creativity, and build momentum through consistent coding.
 
-What's Inside
-- Daily coding challenges
+💡 What's Inside
+- 🧠 Daily coding challenges
 
-- Mini tools and utilities
+- 🛠️ Mini tools and utilities
 
-- Bite-sized problem-solving exercises
+- 🎯 Bite-sized problem-solving exercises
 
-- Experiments with new languages, frameworks, or concepts
+- 🌱 Experiments with new languages, frameworks, or concepts
