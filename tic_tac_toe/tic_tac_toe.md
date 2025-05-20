@@ -1,41 +1,41 @@
 🎮 Tic-Tac-Toe (Python Console Game)
-This is a simple Python console-based Tic-Tac-Toe game where the computer (playing as O) competes against a human player (playing as X). The game follows basic rules with a few simplifications to make the logic easier to follow.
+- This is a simple Python console-based Tic-Tac-Toe game where the computer (playing as O) competes against a human player (playing as X). The game   follows basic rules with a few simplifications to make the logic easier to follow.
 
 📋 Features
-Console-based interactive gameplay
+- Console-based interactive gameplay
 
-The computer makes random valid moves (no AI)
+- The computer makes random valid moves (no AI)
 
-User-friendly display of the board
+- User-friendly display of the board
 
-Basic win/draw detection
+- Basic win/draw detection
 
-Option to replay after a win or draw
+- Option to replay after a win or draw
 
 📌 Game Rules
-The board is a 3x3 grid with positions numbered 1 to 9, left to right, top to bottom.
+- The board is a 3x3 grid with positions numbered 1 to 9, left to right, top to bottom.
 
-You, the player always starts first by typing a number corresponding to a grid position.
+- You, the player always starts first by typing a number corresponding to a grid position.
  placing X in the middle.
 
-The computer (O) , will play next.
+- The computer (O) , will play next.
 
-The game alternates turns and checks for:
+- The game alternates turns and checks for:
 
-A win (three in a row)
+- A win (three in a row)
 
-A draw (no available moves)
+- A draw (no available moves)
 
-After a win or draw, you can choose to play again or exit.
+- After a win or draw, you can choose to play again or exit.
 
 ▶️ How to Run
-Ensure Python 3 is installed on your system.
+- Ensure Python 3 is installed on your system.
 
-Clone or download this repository.
+- Clone or download this repository.
 
-Open a terminal or command prompt and run:
+- Open a terminal or command prompt and run:
 
-python tic_tac_toe.py
+   $ python tic_tac_toe.py
 
 
 🚀 Stretch Goals
