@@ -222,9 +222,6 @@ def game_play(board , winner , player ):
             time.sleep(1)
             board , winner , player = enter_comp_move(board , player ,excluded)
             display_board(board , player)
-
-            
-            print("polin_bridgerton has played with my heart")
             winner = False
             
 
