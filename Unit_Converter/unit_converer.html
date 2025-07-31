@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="/unit_converer.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="unit-convert--wrapper">
+                <h1 id="unit-convert--title">Metric/Imperial Unit Conversion</h1>
+                <div id="convert-input--wrapper">
+                    <input type="number" name="in-value" id="in-value">
+                    <select name="type-conversion" id="type-conversion" value="Select Unit">
+                        <option value="temp">Temperature Conversion</option>
+                        <option value="length">Length Conversion</option>
+                        <option value="area">Area Conversion</option>
+                        <option value="volume">Volume Conversion</option>
+                        <option value="weight">Weight Conversion</option>
+                        <option value="speed">Speed Conversion</option>
+                        <option value="time">Time Conversion</option>
+                        <option value="angle">Angle Conversion</option>
+                        <option value="pressure">Pressure Conversion</option>
+                        <option value="energy">Energy and Power Conversion</option>
+                    </select>
+
+                </div>
+                <div id="unit-buttons--wrapper">
+                    <select name="type-from"  placeholder='From' id="type-from">
+                       
+                    </select>
+                    <select name="type-to" placeholder='To' id="type-to"></select>
+                </div>
+                <button id="convert-btn">Convert</button>
+
+            </div>
+            <div class="unit-result--wrapper">
+                <div id="unit-result"></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="./unit_converter.js"></script>
+</html>
